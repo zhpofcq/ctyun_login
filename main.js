@@ -1,6 +1,7 @@
 /*
  * filename:main.js
  * author: zhpofcq
+ * telegram: https://t.me/xpush5r
  * create_date: 2024/03/18
  * ctyun client login
  */
